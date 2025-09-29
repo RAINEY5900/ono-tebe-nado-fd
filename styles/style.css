@@ -4,6 +4,7 @@ body {
   height: 3028;
   overflow-x: hidden;
   background: #FFFFFF;
+  margin: 0 auto;
 }
 
 .header {
