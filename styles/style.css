@@ -409,27 +409,6 @@ body {
   z-index: 2;
 }
 
-/* Убираем псевдоэлементы, которые мешают отображению логотипа */
-/* .logo-white::before {
-  content: '';
-  position: absolute;
-  left: 4.73%;
-  right: 3.38%;
-  top: 2.63%;
-  bottom: 7.89%;
-  border: 6px solid #FFFFFF;
-}
-
-.logo-white::after {
-  content: '';
-  position: absolute;
-  left: 2.98%;
-  right: 1.38%;
-  top: 1.1%;
-  bottom: 0.18%;
-  background: #FFFFFF;
-} */
-
 .about-column {
   position: absolute;
   width: 693px;
@@ -459,7 +438,7 @@ body {
   width: 693px;
   height: 312px;
   left: 0px;
-  top: 150px;
+  top: 140px;
 }
 
 .about-text {
