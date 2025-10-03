@@ -524,11 +524,6 @@ body {
   color: #000000;
 }
 
-.text-underline {
-  text-decoration: underline;
-  text-underline-offset: 5px;
-}
-
 .footer-nav {
   position: absolute;
   width: 163.9px;
