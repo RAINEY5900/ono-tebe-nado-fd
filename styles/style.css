@@ -402,6 +402,34 @@ body {
   top: calc(50% - 114px/2 + 1px);
 }
 
+.logo-image {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  z-index: 2;
+}
+
+/* Убираем псевдоэлементы, которые мешают отображению логотипа */
+/* .logo-white::before {
+  content: '';
+  position: absolute;
+  left: 4.73%;
+  right: 3.38%;
+  top: 2.63%;
+  bottom: 7.89%;
+  border: 6px solid #FFFFFF;
+}
+
+.logo-white::after {
+  content: '';
+  position: absolute;
+  left: 2.98%;
+  right: 1.38%;
+  top: 1.1%;
+  bottom: 0.18%;
+  background: #FFFFFF;
+} */
+
 .about-column {
   position: absolute;
   width: 693px;
