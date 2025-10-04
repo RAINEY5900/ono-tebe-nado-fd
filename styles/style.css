@@ -169,7 +169,7 @@ body {
 
 .auction-lots {
   width: 1052px;
-  margin-bottom: 130px;
+  margin-bottom: 135px;
   margin-left: 25px;
   padding: 0px 0px 0px;
 }
@@ -180,6 +180,7 @@ body {
   font-weight: 700;
   font-size: 40px;
   line-height: 47px;
+  margin-left: 40px;
   text-transform: uppercase;
   color: #000000;
 }
@@ -252,6 +253,7 @@ body {
   font-weight: 400;
   font-size: 20px;
   line-height: 23px;
+  margin-left: 40px;
   color: #000000;
   display: inline-block;
 }
@@ -263,7 +265,7 @@ body {
   grid-template-columns: 334px 693px;
   gap: 25px;
   align-items: start;
-  margin-bottom: 120px;
+  margin-bottom: 200px;
 }
 
 .logo-column {
