@@ -326,15 +326,6 @@ body {
   margin: 0;
 }
 
-.about-text-first {
-  width: 688px;
-  margin-bottom: 24px;
-}
-
-.about-text-second {
-  width: 693px;
-}
-
 .page-footer {
   width: 1100px;
   display: flex;
@@ -362,7 +353,6 @@ body {
   list-style-type: none;
   gap: 48px;
   width: 240px;
-  height: 48px;
   flex-direction: row;
   align-items: flex-start;
   padding: 0px;
@@ -389,7 +379,6 @@ body {
 
 .footer-nav {
   width: 163.9px;
-  height: 64px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -397,7 +386,6 @@ body {
 
 .footer-nav-link-active {
   width: 73.7px;
-  height: 21px;
   font-family: 'Raleway', sans-serif;
   font-style: normal;
   font-weight: 400;
